@@ -65,9 +65,6 @@ namespace OOTDaplikasi
             int p = k-l * dbl;
             string j = p.ToString();
             textBox3.Text = j;
-
-
-
         }
     }
 }
